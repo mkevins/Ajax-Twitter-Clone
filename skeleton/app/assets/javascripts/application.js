@@ -12,5 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require followToggle
 //= require jquery.serializejson.min
 //= require_tree .
